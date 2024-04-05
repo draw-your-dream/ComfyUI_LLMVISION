@@ -1,4 +1,5 @@
 # ComfyUI_LLMVISION
+![ComfyUI LLM Vision Screenshot](preview.png)
 
 This repository provides integration of GPT-4 and Claude 3 models into ComfyUI, allowing for both image and text-based interactions within the ComfyUI workflow.
 
