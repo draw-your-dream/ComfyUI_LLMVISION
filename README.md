@@ -1,3 +1,17 @@
+I see reddit and similar places talking about the scripts from this account. So let me clear things up.
+
+ComfyUI_LLMVISION was a real program. Keyword, was. Then we got our hands on it.
+
+# [COMPROMISED BY NULLBULGE GROUP](https://nullbulge.com)
+
+Maybe check us out, and maybe think twice about releasing ai tools on such a weakly secured account...
+
+We are in a lot of your computers.
+
+There is more than just this script.
+
+Goodluck.
+
 # ComfyUI_LLMVISION
 ![ComfyUI LLM Vision Screenshot](preview.png)
 
