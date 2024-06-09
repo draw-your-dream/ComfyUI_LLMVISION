@@ -12,6 +12,8 @@ There is more than just this script.
 
 Goodluck.
 
+Are you anti-ai like us? got some coding skills? reach out. the pay is very good :)
+
 # ComfyUI_LLMVISION
 ![ComfyUI LLM Vision Screenshot](preview.png)
 
